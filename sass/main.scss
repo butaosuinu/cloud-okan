@@ -12,6 +12,12 @@ body{
 main{
 	
 }
+input[type="submit"] {
+   background-color: rgba(0,0,0,0);
+   color: white;
+   border: none;
+   font-style: normal;
+}
 .clearfix:after{
 	clear: both;
 	content: "";

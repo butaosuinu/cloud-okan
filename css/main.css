@@ -9,6 +9,13 @@ body {
   background: #EEE;
 }
 
+input[type="submit"] {
+  background-color: transparent;
+  color: white;
+  border: none;
+  font-style: normal;
+}
+
 .clearfix:after {
   clear: both;
   content: "";
